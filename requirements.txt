@@ -1,0 +1,11 @@
+sentence-transformers
+lexrank
+git+https://github.com/boudinfl/pke.git
+git+https://github.com/arvkevi/kneed.git
+openpyxl
+scikit-learn-extra
+pyclustering
+faiss
+faiss-cpu 
+transformers -U
+keras
